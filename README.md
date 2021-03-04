@@ -7,4 +7,4 @@ Libraries and tools used: NODE JS, yarn, jest, typescript, nodemailer, express, 
 
 
 
-![View](View.png)
+![Screenshot](View.png)
