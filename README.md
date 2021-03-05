@@ -8,3 +8,6 @@ Libraries and tools used: NODE JS, yarn, jest, typescript, nodemailer, express, 
 
 
 ![alt text](https://github.com/evertonmendes/Next_Level_Week_4-NLW-/blob/main/View.PNG?raw=true)
+
+
+![alt text](https://github.com/evertonmendes/Next_Level_Week_4-NLW-/blob/main/CodeView.PNG?raw=true)
